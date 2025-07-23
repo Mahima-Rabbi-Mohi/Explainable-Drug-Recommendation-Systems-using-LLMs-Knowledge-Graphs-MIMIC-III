@@ -1,0 +1,2 @@
+# Explainable-Drug-Recommendation-Systems-using-LLMs-Knowledge-Graphs-MIMIC-III
+This aims to integrates LLMs with structured biomedical Knowledge Graphs (KGs) to generate transparent and explainable predictions. To address privacy concerns in clinical data, the framework further incorporates Zero-Knowledge Proofs (ZKPs), enabling the verification of AI-generated explanations without revealing sensitive patient information.
